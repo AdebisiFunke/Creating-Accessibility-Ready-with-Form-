@@ -9,4 +9,5 @@ textarea{width: 360px;height: 50px;}
 label[type=checkbox]{width: auto;}
 input{margin: 0.25rem 0;}
 label[type=range]{text-align:center;}
+input[type=radio] {margin-right: 5px;}
 input[type=submit]{background:#008000;font-weight:bold;padding:10px;color:#fff; }
