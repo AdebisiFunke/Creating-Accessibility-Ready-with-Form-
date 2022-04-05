@@ -6,8 +6,9 @@ span{padding:10px }
 .span1{background-color:#00ff7f;}
 span{width: 40px;padding: 2px}
 textarea{width: 360px;height: 50px;border-radius: 5px;}
+input{margin-top:5px}
 label[type=checkbox]{margin-right:5px;}
-input[type=text]{padding: 5px;width: 50%;border-radius: 5px;margin:5px 0}
+input[type=text]{padding: 5px;width: 50%;border-radius: 5px;}
 label[type=range]{text-align:center;}
 input[type=radio] {margin-right: 5px;}
 input[type=submit]{background:#008000;font-weight:bold;padding:10px;color:#fff; }
